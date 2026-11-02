@@ -236,4 +236,4 @@ Tagstoo is an open-source software that is completely free to download and use. 
 Download Tagstoo today and revolutionize the way you manage your files! Enjoy a safe download and explore all the features that Tagstoo has to offer.
 
 ---
-**Last updated:** 2026-11-02 08:35:16 UTC
+**Last updated:** 2026-11-02 18:54:42 UTC
